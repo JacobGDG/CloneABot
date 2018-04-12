@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 62a6fa3262660ca4998cc659e9b8808c
+timeCreated: 1457200583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UpgradeIdle_0
+    21300002: UpgradeIdle_1
+    21300004: UpgradeIdle_2
+    21300006: UpgradeIdle_3
+    21300008: UpgradeIdle_4
+    21300010: UpgradeIdle_5
+    21300012: UpgradeIdle_6
+    21300014: UpgradeIdle_7
+    21300016: UpgradeIdle_8
+    21300018: UpgradeIdle_9
+    21300020: UpgradeIdle_10
+    21300022: UpgradeIdle_11
+    21300024: UpgradeIdle_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UpgradeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 31}
+        - {x: -56, y: -25}
+        - {x: -52, y: -48}
+        - {x: -36, y: -74}
+        - {x: 25, y: -74}
+        - {x: 49, y: -70}
+        - {x: 56, y: -48}
+        - {x: 56, y: 31}
+    - name: UpgradeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 444
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 38}
+        - {x: -56, y: 30}
+        - {x: -56, y: -34}
+        - {x: -40, y: -69}
+        - {x: 35, y: -69}
+        - {x: 56, y: -50}
+        - {x: 56, y: 33}
+        - {x: 42, y: 38}
+    - name: UpgradeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 444
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 46}
+        - {x: -56, y: -43}
+        - {x: -37, y: -61}
+        - {x: 26, y: -61}
+        - {x: 56, y: -13}
+        - {x: 56, y: 41}
+        - {x: 41, y: 46}
+    - name: UpgradeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 444
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 53}
+        - {x: -56, y: 44}
+        - {x: -56, y: -11}
+        - {x: -37, y: -54}
+        - {x: 36, y: -54}
+        - {x: 56, y: -23}
+        - {x: 56, y: 42}
+        - {x: 50, y: 53}
+    - name: UpgradeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 61}
+        - {x: -56, y: 51}
+        - {x: -56, y: 5}
+        - {x: -41, y: -46}
+        - {x: 48, y: -46}
+        - {x: 56, y: -21}
+        - {x: 56, y: 61}
+    - name: UpgradeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 296
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 68}
+        - {x: -43, y: 68}
+        - {x: -56, y: 66}
+        - {x: -56, y: 17}
+        - {x: -54, y: -2}
+        - {x: -35, y: -38}
+        - {x: -32, y: -39}
+        - {x: 24, y: -39}
+        - {x: 56, y: 9}
+        - {x: 56, y: 57}
+    - name: UpgradeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 296
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 74}
+        - {x: -56, y: 32}
+        - {x: -40, y: -31}
+        - {x: 29, y: -31}
+        - {x: 56, y: 15}
+        - {x: 56, y: 74}
+    - name: UpgradeIdle_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 74}
+        - {x: -56, y: 68}
+        - {x: -56, y: -1}
+        - {x: -44, y: -31}
+        - {x: 33, y: -31}
+        - {x: 56, y: 8}
+        - {x: 56, y: 72}
+        - {x: 53, y: 74}
+    - name: UpgradeIdle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 68}
+        - {x: -56, y: 59}
+        - {x: -56, y: 20}
+        - {x: -46, y: -23}
+        - {x: -37, y: -39}
+        - {x: 26, y: -39}
+        - {x: 56, y: 5}
+        - {x: 56, y: 56}
+        - {x: 52, y: 68}
+    - name: UpgradeIdle_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 61}
+        - {x: -56, y: -28}
+        - {x: -36, y: -46}
+        - {x: 33, y: -46}
+        - {x: 56, y: -18}
+        - {x: 56, y: 57}
+        - {x: 54, y: 61}
+    - name: UpgradeIdle_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 148
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 53}
+        - {x: -56, y: 44}
+        - {x: -56, y: -11}
+        - {x: -37, y: -54}
+        - {x: 36, y: -54}
+        - {x: 56, y: -23}
+        - {x: 56, y: 42}
+        - {x: 50, y: 53}
+    - name: UpgradeIdle_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 46}
+        - {x: -56, y: -43}
+        - {x: -37, y: -61}
+        - {x: 26, y: -61}
+        - {x: 56, y: -13}
+        - {x: 56, y: 41}
+        - {x: 41, y: 46}
+    - name: UpgradeIdle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 38}
+        - {x: -56, y: 30}
+        - {x: -56, y: -34}
+        - {x: -40, y: -69}
+        - {x: 35, y: -69}
+        - {x: 56, y: -50}
+        - {x: 56, y: 33}
+        - {x: 42, y: 38}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

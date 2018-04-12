@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: b62c26e4997167e41ae88bccdb701cc9
+timeCreated: 1454969542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterJumpLand_0
+    21300002: CharacterJumpLand_1
+    21300004: CharacterJumpLand_2
+    21300006: CharacterJumpLand_3
+    21300008: CharacterJumpLand_4
+    21300010: CharacterJumpLand_5
+    21300012: CharacterJumpLand_6
+    21300014: CharacterJumpLand_7
+    21300016: CharacterJumpLand_8
+    21300018: CharacterJumpLand_9
+    21300020: CharacterJumpLand_10
+    21300022: CharacterJumpLand_11
+    21300024: CharacterJumpLand_12
+    21300026: CharacterJumpLand_13
+    21300028: CharacterJumpLand_14
+    21300030: CharacterJumpLand_15
+    21300032: CharacterJumpLand_16
+    21300034: CharacterJumpLand_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterJumpLand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3519
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 57.222168}
+        - {x: -53, y: -40.777832}
+        - {x: -42, y: -56.777832}
+        - {x: 34, y: -56.777832}
+        - {x: 41, y: -55.777832}
+        - {x: 53, y: -30.777832}
+        - {x: 53, y: 57.222168}
+    - name: CharacterJumpLand_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3312
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 54.944458}
+        - {x: -53, y: -20.055542}
+        - {x: -26, y: -57.055542}
+        - {x: 16, y: -57.055542}
+        - {x: 53, y: -19.055542}
+        - {x: 53, y: 54.944458}
+      - - {x: -18, y: 55.944458}
+        - {x: -18, y: 57.944458}
+        - {x: -23, y: 57.944458}
+        - {x: -21, y: 54.944458}
+      - - {x: -10, y: 57.944458}
+        - {x: -9, y: 54.944458}
+        - {x: -6, y: 54.944458}
+        - {x: -4, y: 56.944458}
+        - {x: -4, y: 57.944458}
+    - name: CharacterJumpLand_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3105
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 53.166626}
+        - {x: -53, y: -41.833374}
+        - {x: -37, y: -56.833374}
+        - {x: 12, y: -56.833374}
+        - {x: 48, y: -35.833374}
+        - {x: 53, y: -27.833374}
+        - {x: 53, y: 49.166626}
+        - {x: 50, y: 53.166626}
+      - - {x: -18, y: 58.166626}
+        - {x: -17, y: 55.166626}
+        - {x: -14, y: 55.166626}
+        - {x: -12, y: 57.166626}
+        - {x: -12, y: 58.166626}
+      - - {x: -5, y: 58.166626}
+        - {x: -4, y: 55.166626}
+        - {x: -1, y: 55.166626}
+        - {x: 1, y: 57.166626}
+        - {x: 1, y: 58.166626}
+    - name: CharacterJumpLand_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2898
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 52.388794}
+        - {x: -51, y: 52.388794}
+        - {x: -51, y: 46.388794}
+        - {x: -45, y: 39.388794}
+        - {x: -51, y: 20.388794}
+        - {x: -51, y: -28.611206}
+        - {x: -17, y: -56.611206}
+        - {x: 30, y: -56.611206}
+        - {x: 53, y: -21.611206}
+        - {x: 53, y: 48.388794}
+      - - {x: -13, y: 58.388794}
+        - {x: -12, y: 55.388794}
+        - {x: -9, y: 55.388794}
+        - {x: -7, y: 57.388794}
+        - {x: -7, y: 58.388794}
+    - name: CharacterJumpLand_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2691
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 52.111084}
+        - {x: 6, y: 53.111084}
+        - {x: -50, y: 53.111084}
+        - {x: -51, y: 49.111084}
+        - {x: -51, y: 47.111084}
+        - {x: -45, y: 39.111084}
+        - {x: -51, y: 17.111084}
+        - {x: -51, y: -30.888916}
+        - {x: -16, y: -56.888916}
+        - {x: 31, y: -56.888916}
+        - {x: 52, y: -46.888916}
+        - {x: 53, y: -38.888916}
+        - {x: 53, y: 50.111084}
+    - name: CharacterJumpLand_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2484
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 53.833252}
+        - {x: -51, y: -54.166748}
+        - {x: -43, y: -57.166748}
+        - {x: 50, y: -57.166748}
+        - {x: 53, y: -40.166748}
+        - {x: 53, y: 53.833252}
+    - name: CharacterJumpLand_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2277
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 55.055542}
+        - {x: -48, y: 55.055542}
+        - {x: -49, y: 54.055542}
+        - {x: -51, y: 47.055542}
+        - {x: -51, y: -28.944458}
+        - {x: -18, y: -56.944458}
+        - {x: 34, y: -56.944458}
+        - {x: 53, y: -22.944458}
+        - {x: 53, y: 48.055542}
+        - {x: 50, y: 53.055542}
+    - name: CharacterJumpLand_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -56.72229}
+        - {x: 35, y: -56.72229}
+        - {x: 53, y: -38.72229}
+        - {x: 53, y: 40.27771}
+        - {x: 43, y: 51.27771}
+        - {x: -51, y: 51.27771}
+        - {x: -51, y: -38.72229}
+    - name: CharacterJumpLand_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1863
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 44}
+        - {x: -53, y: -31}
+        - {x: -25, y: -57}
+        - {x: 31, y: -57}
+        - {x: 53, y: -14}
+        - {x: 53, y: 44}
+    - name: CharacterJumpLand_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 43.22223}
+        - {x: -53, y: 43.22223}
+        - {x: -53, y: -49.77777}
+        - {x: -29, y: -56.77777}
+        - {x: 44, y: -56.77777}
+        - {x: 53, y: -17.777771}
+        - {x: 53, y: 20.222229}
+        - {x: 51, y: 35.22223}
+    - name: CharacterJumpLand_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 42.944397}
+        - {x: -53, y: 34.944397}
+        - {x: -53, y: -14.055603}
+        - {x: -52, y: -24.055603}
+        - {x: -36, y: -53.055603}
+        - {x: -9, y: -57.055603}
+        - {x: 34, y: -57.055603}
+        - {x: 51, y: -32.055603}
+        - {x: 51, y: 34.944397}
+        - {x: 48, y: 42.944397}
+    - name: CharacterJumpLand_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1242
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 43.166626}
+        - {x: -53, y: -38.833374}
+        - {x: -30, y: -56.833374}
+        - {x: 30, y: -56.833374}
+        - {x: 51, y: -44.833374}
+        - {x: 51, y: 43.166626}
+    - name: CharacterJumpLand_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -56.611145}
+        - {x: 41, y: -56.611145}
+        - {x: 51, y: -22.611145}
+        - {x: 51, y: 43.388855}
+        - {x: -34, y: 43.388855}
+        - {x: -53, y: 35.388855}
+        - {x: -53, y: -27.611145}
+        - {x: -19, y: -56.611145}
+        - {x: 9, y: -56.611145}
+        - {x: 9, y: -52.611145}
+        - {x: 11, y: -55.611145}
+    - name: CharacterJumpLand_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 6.1111145}
+        - {x: 51, y: 34.111115}
+        - {x: 46, y: 42.111115}
+        - {x: -48, y: 42.111115}
+        - {x: -53, y: 40.111115}
+        - {x: -53, y: -37.888885}
+        - {x: -37, y: -56.888885}
+        - {x: 30, y: -56.888885}
+        - {x: 51, y: -44.888885}
+        - {x: 51, y: -2.8888855}
+        - {x: 50, y: 2.1111145}
+    - name: CharacterJumpLand_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 41.833313}
+        - {x: -53, y: -36.166687}
+        - {x: -30, y: -55.166687}
+        - {x: -17, y: -57.166687}
+        - {x: 29, y: -57.166687}
+        - {x: 51, y: -15.166687}
+        - {x: 51, y: 40.833313}
+        - {x: 47, y: 41.833313}
+    - name: CharacterJumpLand_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 42.055557}
+        - {x: -53, y: -34.944443}
+        - {x: -30, y: -56.944443}
+        - {x: 28, y: -56.944443}
+        - {x: 51, y: -24.944443}
+        - {x: 51, y: 42.055557}
+    - name: CharacterJumpLand_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 42.27778}
+        - {x: -53, y: -13.722221}
+        - {x: -52, y: -27.722221}
+        - {x: -40, y: -56.72222}
+        - {x: 27, y: -56.72222}
+        - {x: 51, y: -46.72222}
+        - {x: 51, y: 41.27778}
+        - {x: 49, y: 42.27778}
+    - name: CharacterJumpLand_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 43}
+        - {x: -52, y: 43}
+        - {x: -52, y: -47}
+        - {x: -28, y: -57}
+        - {x: 32, y: -57}
+        - {x: 51, y: -24}
+        - {x: 51, y: 39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

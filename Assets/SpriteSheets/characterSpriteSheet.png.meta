@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: ba18bbcd474a38044be16d2956fa2c05
+timeCreated: 1454776829
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characterSpriteSheet_0
+    21300002: characterSpriteSheet_1
+    21300004: characterSpriteSheet_2
+    21300006: characterSpriteSheet_3
+    21300008: characterSpriteSheet_4
+    21300010: characterSpriteSheet_5
+    21300012: characterSpriteSheet_6
+    21300014: characterSpriteSheet_7
+    21300016: characterSpriteSheet_8
+    21300018: characterSpriteSheet_9
+    21300020: characterSpriteSheet_10
+    21300022: characterSpriteSheet_11
+    21300024: characterSpriteSheet_12
+    21300026: characterSpriteSheet_13
+    21300028: characterSpriteSheet_14
+    21300030: characterSpriteSheet_15
+    21300032: characterSpriteSheet_16
+    21300034: characterSpriteSheet_17
+    21300036: characterSpriteSheet_18
+    21300038: characterSpriteSheet_19
+    21300040: characterSpriteSheet_20
+    21300042: characterSpriteSheet_21
+    21300044: characterSpriteSheet_22
+    21300046: characterSpriteSheet_23
+    21300048: characterSpriteSheet_24
+    21300050: characterSpriteSheet_25
+    21300052: characterSpriteSheet_26
+    21300054: characterSpriteSheet_27
+    21300056: characterSpriteSheet_28
+    21300058: characterSpriteSheet_29
+    21300060: characterSpriteSheet_30
+    21300062: characterSpriteSheet_31
+    21300064: characterSpriteSheet_32
+    21300066: characterSpriteSheet_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: characterSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6468
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 54.695557}
+        - {x: -56.5, y: 54.695557}
+        - {x: -56.5, y: -53.304443}
+        - {x: -41.5, y: -59.304443}
+        - {x: 43.5, y: -59.304443}
+        - {x: 49.5, y: -45.304443}
+        - {x: 55.5, y: -18.304443}
+        - {x: 55.5, y: 50.695557}
+    - name: characterSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6272
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 55.82617}
+        - {x: -56.5, y: -58.17383}
+        - {x: 31.5, y: -58.17383}
+        - {x: 55.5, y: -25.173828}
+        - {x: 55.5, y: 52.82617}
+        - {x: 46.5, y: 55.82617}
+    - name: characterSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6076
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 54.956543}
+        - {x: -56.5, y: -35.043457}
+        - {x: -49.5, y: -59.043457}
+        - {x: 41.5, y: -59.043457}
+        - {x: 55.5, y: -55.043457}
+        - {x: 55.5, y: 54.956543}
+    - name: characterSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5880
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 54.586914}
+        - {x: -56.5, y: -46.413086}
+        - {x: -40.5, y: -59.413086}
+        - {x: 21.5, y: -59.413086}
+        - {x: 37.5, y: -55.413086}
+        - {x: 55.5, y: -36.413086}
+        - {x: 55.5, y: 54.586914}
+    - name: characterSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5684
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 29.717285}
+        - {x: 55.5, y: 41.717285}
+        - {x: 51.5, y: 54.717285}
+        - {x: -56.5, y: 54.717285}
+        - {x: -56.5, y: -50.282715}
+        - {x: -45.5, y: -59.282715}
+        - {x: 22.5, y: -59.282715}
+        - {x: 55.5, y: -38.282715}
+        - {x: 55.5, y: 3.7172852}
+        - {x: 49.5, y: 18.717285}
+        - {x: 44.5, y: 26.717285}
+    - name: characterSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5488
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.8479}
+        - {x: -56.5, y: -30.1521}
+        - {x: -31.5, y: -59.1521}
+        - {x: 22.5, y: -59.1521}
+        - {x: 55.5, y: -39.1521}
+        - {x: 55.5, y: 50.8479}
+        - {x: 50.5, y: 53.8479}
+    - name: characterSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5292
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.97827}
+        - {x: -56.5, y: -53.02173}
+        - {x: -44.5, y: -59.02173}
+        - {x: 37.5, y: -59.02173}
+        - {x: 55.5, y: -19.021729}
+        - {x: 55.5, y: 53.97827}
+    - name: characterSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5096
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 54.108643}
+        - {x: -56.5, y: -41.891357}
+        - {x: -50.5, y: -58.891357}
+        - {x: 42.5, y: -58.891357}
+        - {x: 55.5, y: -40.891357}
+        - {x: 55.5, y: 54.108643}
+    - name: characterSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4900
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.739258}
+        - {x: -56.5, y: 45.739258}
+        - {x: -53.5, y: 41.739258}
+        - {x: -56.5, y: 21.739258}
+        - {x: -56.5, y: -19.260742}
+        - {x: -51.5, y: -30.260742}
+        - {x: -35.5, y: -49.260742}
+        - {x: -16.5, y: -60.260742}
+        - {x: 42.5, y: -60.260742}
+        - {x: 55.5, y: -14.260742}
+        - {x: 55.5, y: 53.739258}
+    - name: characterSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4704
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -59.13037}
+        - {x: 30.5, y: -59.13037}
+        - {x: 55.5, y: -42.13037}
+        - {x: 55.5, y: 55.86963}
+        - {x: -56.5, y: 55.86963}
+        - {x: -56.5, y: -29.130371}
+    - name: characterSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4508
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 57}
+        - {x: -56.5, y: -57}
+        - {x: -55.5, y: -59}
+        - {x: 21.5, y: -59}
+        - {x: 55.5, y: -27}
+        - {x: 55.5, y: 56}
+        - {x: 43.5, y: 57}
+    - name: characterSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4312
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -60.36963}
+        - {x: 17.5, y: -60.36963}
+        - {x: 55.5, y: -40.36963}
+        - {x: 55.5, y: 58.63037}
+        - {x: -56.5, y: 58.63037}
+        - {x: -56.5, y: -36.36963}
+    - name: characterSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4116
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -60.239014}
+        - {x: -47.5, y: -57.239014}
+        - {x: -51.5, y: -57.239014}
+        - {x: -52.5, y: -60.239014}
+      - - {x: -4.5, y: 61.760986}
+        - {x: -53.5, y: 61.760986}
+        - {x: -56.5, y: 57.760986}
+        - {x: -56.5, y: -28.239014}
+        - {x: -29.5, y: -59.239014}
+        - {x: 16.5, y: -59.239014}
+        - {x: 55.5, y: -49.239014}
+        - {x: 55.5, y: 53.760986}
+        - {x: 48.5, y: 59.760986}
+    - name: characterSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -60.108643}
+        - {x: -46.5, y: -57.108643}
+        - {x: -50.5, y: -57.108643}
+        - {x: -51.5, y: -60.108643}
+      - - {x: 53.5, y: 60.891357}
+        - {x: -56.5, y: 60.891357}
+        - {x: -56.5, y: -53.108643}
+        - {x: -35.5, y: -60.108643}
+        - {x: 25.5, y: -60.108643}
+        - {x: 50.5, y: -35.108643}
+        - {x: 55.5, y: -28.108643}
+        - {x: 55.5, y: 54.891357}
+    - name: characterSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3724
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -58.47827}
+        - {x: -50.5, y: -60.47827}
+        - {x: -44.5, y: -60.47827}
+        - {x: -44.5, y: -59.47827}
+        - {x: -47.5, y: -56.47827}
+        - {x: -48.5, y: -56.47827}
+      - - {x: 31.5, y: 60.52173}
+        - {x: -53.5, y: 60.52173}
+        - {x: -56.5, y: 59.52173}
+        - {x: -56.5, y: -60.47827}
+        - {x: 31.5, y: -60.47827}
+        - {x: 46.5, y: -41.47827}
+        - {x: 55.5, y: -6.4782715}
+        - {x: 55.5, y: 51.52173}
+    - name: characterSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3528
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -58.3479}
+        - {x: -50.5, y: -60.3479}
+        - {x: -43.5, y: -60.3479}
+        - {x: -43.5, y: -59.3479}
+        - {x: -46.5, y: -56.3479}
+        - {x: -48.5, y: -56.3479}
+      - - {x: -56.5, y: 61.6521}
+        - {x: -56.5, y: -21.3479}
+        - {x: -54.5, y: -26.3479}
+        - {x: -45.5, y: -39.3479}
+        - {x: -39.5, y: -54.3479}
+        - {x: -29.5, y: -60.3479}
+        - {x: 15.5, y: -60.3479}
+        - {x: 55.5, y: -38.3479}
+        - {x: 55.5, y: 53.6521}
+        - {x: 5.5, y: 61.6521}
+    - name: characterSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3332
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 60.782593}
+        - {x: -56.5, y: 51.782593}
+        - {x: -56.5, y: -29.217407}
+        - {x: -35.5, y: -60.217407}
+        - {x: 21.5, y: -60.217407}
+        - {x: 55.5, y: -41.217407}
+        - {x: 55.5, y: 57.782593}
+        - {x: 9.5, y: 60.782593}
+    - name: characterSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 61.913086}
+        - {x: -53.5, y: 55.913086}
+        - {x: -49.5, y: 48.913086}
+        - {x: -56.5, y: 44.913086}
+        - {x: -56.5, y: -37.086914}
+        - {x: -47.5, y: -60.086914}
+        - {x: 24.5, y: -60.086914}
+        - {x: 55.5, y: -45.086914}
+        - {x: 55.5, y: 61.913086}
+    - name: characterSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 55.043457}
+        - {x: 4.5, y: 58.043457}
+        - {x: -56.5, y: 58.043457}
+        - {x: -56.5, y: -31.956543}
+        - {x: -31.5, y: -59.956543}
+        - {x: 27.5, y: -59.956543}
+        - {x: 51.5, y: -50.956543}
+        - {x: 55.5, y: -36.956543}
+        - {x: 55.5, y: 54.043457}
+    - name: characterSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2744
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 54.67395}
+        - {x: -56.5, y: -57.32605}
+        - {x: -50.5, y: -60.32605}
+        - {x: 27.5, y: -60.32605}
+        - {x: 55.5, y: -37.32605}
+        - {x: 55.5, y: 43.67395}
+        - {x: 43.5, y: 54.67395}
+    - name: characterSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2548
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.80432}
+        - {x: -56.5, y: -37.19568}
+        - {x: -28.5, y: -60.19568}
+        - {x: 23.5, y: -60.19568}
+        - {x: 55.5, y: -34.19568}
+        - {x: 55.5, y: 53.80432}
+    - name: characterSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.934814}
+        - {x: -56.5, y: -35.065186}
+        - {x: -37.5, y: -60.065186}
+        - {x: 28.5, y: -60.065186}
+        - {x: 55.5, y: -34.065186}
+        - {x: 55.5, y: 47.934814}
+        - {x: 43.5, y: 53.934814}
+    - name: characterSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2156
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 53.565186}
+        - {x: -56.5, y: -48.434814}
+        - {x: -30.5, y: -60.434814}
+        - {x: 30.5, y: -60.434814}
+        - {x: 55.5, y: -32.434814}
+        - {x: 55.5, y: 45.565186}
+        - {x: 54.5, y: 53.565186}
+    - name: characterSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 54.69568}
+        - {x: 43.5, y: 55.69568}
+        - {x: -56.5, y: 55.69568}
+        - {x: -56.5, y: -34.30432}
+        - {x: -48.5, y: -59.30432}
+        - {x: -43.5, y: -60.30432}
+        - {x: 21.5, y: -60.30432}
+        - {x: 50.5, y: -46.30432}
+        - {x: 55.5, y: -17.304321}
+        - {x: 55.5, y: 51.69568}
+    - name: characterSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1764
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 56.82605}
+        - {x: -56.5, y: -31.17395}
+        - {x: -30.5, y: -60.17395}
+        - {x: 35.5, y: -60.17395}
+        - {x: 55.5, y: -26.17395}
+        - {x: 55.5, y: 53.82605}
+        - {x: 50.5, y: 56.82605}
+    - name: characterSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 58.956543}
+        - {x: -56.5, y: -33.043457}
+        - {x: -38.5, y: -60.043457}
+        - {x: 24.5, y: -60.043457}
+        - {x: 34.5, y: -55.043457}
+        - {x: 55.5, y: -43.043457}
+        - {x: 55.5, y: 58.956543}
+    - name: characterSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1372
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 59.086975}
+        - {x: -56.5, y: -33.913025}
+        - {x: -45.5, y: -59.913025}
+        - {x: 28.5, y: -59.913025}
+        - {x: 55.5, y: -44.913025}
+        - {x: 55.5, y: 52.086975}
+        - {x: 1.5, y: 59.086975}
+    - name: characterSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 58.717407}
+        - {x: -56.5, y: 58.717407}
+        - {x: -56.5, y: -39.282593}
+        - {x: -46.5, y: -60.282593}
+        - {x: 26.5, y: -60.282593}
+        - {x: 55.5, y: -42.282593}
+        - {x: 55.5, y: 46.717407}
+        - {x: 51.5, y: 53.717407}
+    - name: characterSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 59.84784}
+        - {x: -56.5, y: -40.15216}
+        - {x: -42.5, y: -60.15216}
+        - {x: 21.5, y: -60.15216}
+        - {x: 52.5, y: -49.15216}
+        - {x: 55.5, y: -39.15216}
+        - {x: 55.5, y: 56.84784}
+        - {x: 32.5, y: 59.84784}
+    - name: characterSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 58.97827}
+        - {x: -56.5, y: 58.97827}
+        - {x: -56.5, y: -36.02173}
+        - {x: -25.5, y: -60.02173}
+        - {x: 21.5, y: -60.02173}
+        - {x: 54.5, y: -29.021729}
+        - {x: 55.5, y: -21.021729}
+        - {x: 55.5, y: 54.97827}
+    - name: characterSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: 52.608704}
+        - {x: 31.5, y: 49.608704}
+        - {x: 3.5, y: 52.608704}
+        - {x: -32.5, y: 56.608704}
+        - {x: -56.5, y: 56.608704}
+        - {x: -56.5, y: -52.391296}
+        - {x: -34.5, y: -60.391296}
+        - {x: 29.5, y: -60.391296}
+        - {x: 52.5, y: -38.391296}
+        - {x: 55.5, y: -22.391296}
+        - {x: 55.5, y: 47.608704}
+    - name: characterSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 55.739136}
+        - {x: -56.5, y: -33.260864}
+        - {x: -39.5, y: -60.260864}
+        - {x: 36.5, y: -60.260864}
+        - {x: 55.5, y: -55.260864}
+        - {x: 55.5, y: 55.739136}
+      - - {x: -23.5, y: 61.739136}
+        - {x: -22.5, y: 58.739136}
+        - {x: -7.5, y: 58.739136}
+        - {x: -5.5, y: 60.739136}
+        - {x: -5.5, y: 61.739136}
+    - name: characterSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 54.869568}
+        - {x: -56.5, y: 54.869568}
+        - {x: -56.5, y: -33.130432}
+        - {x: -31.5, y: -60.130432}
+        - {x: 25.5, y: -60.130432}
+        - {x: 55.5, y: -23.130432}
+        - {x: 55.5, y: 42.869568}
+        - {x: 52.5, y: 52.869568}
+    - name: characterSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: 53.5}
+        - {x: -56.5, y: 53.5}
+        - {x: -56.5, y: -57.5}
+        - {x: -41.5, y: -60.5}
+        - {x: 36.5, y: -60.5}
+        - {x: 47.5, y: -48.5}
+        - {x: 55.5, y: -19.5}
+        - {x: 55.5, y: 47.5}
+      - - {x: -26.5, y: 60.5}
+        - {x: -25.5, y: 57.5}
+        - {x: -10.5, y: 57.5}
+        - {x: -8.5, y: 59.5}
+        - {x: -8.5, y: 60.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
